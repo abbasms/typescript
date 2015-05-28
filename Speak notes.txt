@@ -1,0 +1,4 @@
+Typescript 1.4 and 1.5
+Speak notes:
+
+-Unions and type guards
